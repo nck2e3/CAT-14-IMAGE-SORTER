@@ -2,16 +2,16 @@
 
 Navigate to your target image directory, launch the app, and use the form to generate Caltrans-compliant filenames.
 
-![Application UI](IMAGES/UI.png)
+<p align="center">
+  <img src="Images/UI.png" alt="Application UI" width="600"/><br>
+  <em>Application UI</em>
+</p>
 
-
-
-| Before Rename | After Rename |
-|---------------|--------------|
-| ![Before](IMAGES/BEFORE.png) | ![After](IMAGES/AFTER.png) |
-
-
-
+<p align="center">
+  <img src="Images/BEFORE.png" alt="Before Rename" width="400"/>
+  <img src="Images/AFTER.png" alt="After Rename" width="400"/><br>
+  <em>Before and after renaming</em>
+</p>
 
 Clicking the "RENAME ALL FILES IN DIRECTORY" button will apply a two-phase bulk rename to all `.jpg` images in the selected folder.
 
