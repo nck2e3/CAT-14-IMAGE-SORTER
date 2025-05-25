@@ -1,3 +1,9 @@
+## 📁 CALTRANS CATEGORY-14 Image Bulk Rename Utility
+
+A Tkinter-based GUI tool I personally developed for batch-renaming JPEG files in a directory using their EXIF metadata (capture date), along with user-specified project metadata such as author, state, and location. Originally designed for Caltrans District 4 project documentation compliance (Category 14 of the State Construction Manual).
+
+---
+
 # 🖼️ Example Usage
 
 Navigate to your target image directory, launch the app, and use the form to generate Caltrans-compliant filenames.
@@ -14,12 +20,6 @@ Navigate to your target image directory, launch the app, and use the form to gen
 </p>
 
 Clicking the "RENAME ALL FILES IN DIRECTORY" button will apply a two-phase bulk rename to all `.jpg` images in the selected folder.
-
----
-
-## 📁 CAT-14 Image Bulk Rename Utility
-
-A Tkinter-based GUI tool I personally developed for batch-renaming JPEG files in a directory using their EXIF metadata (capture date), along with user-specified project metadata such as author, state, and location. Originally designed for Caltrans District 4 project documentation compliance (Category 14 of the State Construction Manual).
 
 ---
 
