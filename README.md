@@ -72,10 +72,3 @@ GDK_BACKEND=x11 python img_sort.py
 * Renames are **destructive** — no undo
 * Designed/tested for Ubuntu systems with X11 (Wayland has known font issues)
 
----
-
-Let me know if you want:
-
-* Undo functionality
-* Dry-run mode
-* Exportable CSV log of before/after filenames
