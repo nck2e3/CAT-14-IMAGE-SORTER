@@ -1,7 +1,3 @@
-Absolutely. Here's a concise, bureaucratically efficient `README.md` tailored for your image renaming utility:
-
----
-
 ## 📁 CAT-14 Image Bulk Rename Utility
 
 A Tkinter-based GUI tool for batch-renaming JPEG files in a directory using their EXIF metadata (capture date), along with user-specified project metadata such as author, state, and location. Originally designed for Caltrans District 4 project documentation compliance.
